@@ -1,0 +1,6 @@
+name: cubo
+description: A sample web application
+dependencies:
+  browser: any
+  three:
+    git: 'https://github.com/threeDart/three.dart.git'
